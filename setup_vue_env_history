@@ -1,0 +1,13 @@
+python3 -m venv env
+npm install -g @vue/cli-init
+source ja_init_nvm_env.sh
+
+
+https://www.google.com/search?q=run+vue+with+bootstrap+tutorial&oq=run+vue+with+bootstrap+tutorial&aqs=chrome..69i57.12497j0j1&sourceid=chrome&ie=UTF-8#kpvalbx=_df9mXrKGNtqsoASRi5XYBg26
+
+npm i bootstrap-vue
+vue create hello-world
+cd hello_world
+npm run serve
+
+
