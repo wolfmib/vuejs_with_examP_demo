@@ -19,13 +19,22 @@ prepare examP in 2020 and make a vuejs framework to review the problem I solved.
 ## Build up the env 😈 , status 
 ---
 
-- status: in-progress..
-- 
+- status: done.. ✅
+    - following setup_vue_env_history
+        - python3 -m venv env (I  might need that later)
+        - npm install -g @vue/cli-init
+        - source ja_init_nvm_env.sh
+    - download package vue
+        - npm i bootstrap-vue
+        - vue create hello-world
+        - cd hello_world
+        - npm run serve
+    
+- working on Vue 🦜....
+
 
 
 ---
-
-
 
 
 
