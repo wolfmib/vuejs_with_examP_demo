@@ -36,6 +36,14 @@ prepare examP in 2020 and make a vuejs framework to review the problem I solved.
 
 ---
 
+## Use Vue to load data and display problems and answer
+---
+
+- use vue-devps for easy debugging
+
+![debug](img/use_vue_dev_tool.jpg)
+
+  
 
 
 ---

@@ -1,5 +1,5 @@
 import Vue from 'vue'
-import App from './App.vue'
+import App from './App.vue' //Entry Point
 
 // [Mary]: Step_01: 
     // Register Bootstrap in your app entry-point:
@@ -12,10 +12,12 @@ import 'bootstrap/dist/css/bootstrap.css'
 import 'bootstrap-vue/dist/bootstrap-vue.css'
 
 
+
 // Steo_01: Install BootstrapVue
 Vue.use(BootstrapVue)
-
 Vue.config.productionTip = false
+
+
 
 new Vue({
   render: h => h(App),
