@@ -57,12 +57,13 @@ prepare examP in 2020 and make a vuejs framework to review the problem I solved.
     - src/assets/result_1.jpg result_2.jpg etc..
 
 ## Result Demo
-- [home](#HOME)
-- [About](#AboutPage)
-- [Examp](#ExampPage)
+- [home](#home)
+- [About](#about)
+- [Examp](#examp)
 
 
 
+<a name="home"></a>
 --- 
 ### HomePage  😈
 
@@ -71,6 +72,7 @@ prepare examP in 2020 and make a vuejs framework to review the problem I solved.
 
 ---
 
+<a name="about"></a>
 ### AboutPage 📂
 --- 
 
@@ -78,7 +80,7 @@ prepare examP in 2020 and make a vuejs framework to review the problem I solved.
 
 --- 
 
-
+<a name="examp"></a>
 ### ExampPage  🐸..
 
 
@@ -87,7 +89,7 @@ prepare examP in 2020 and make a vuejs framework to review the problem I solved.
 
  ![examp1](img/examp_1.jpg)
 
--  ###############
+--- 
 
 - Examp/2 Endpoint :
 
