@@ -13,7 +13,7 @@
 
 		<b-list-group>
 			<b-list-group-item
-				v-for="(answer,index) in shuffledAnswers" 
+				v-for="(answer,index) in answers" 
 				:key="index"
 				@click="selectAnswer(index)"
 				:class="[selectedIndex === index ? 'selected' : '']"
@@ -63,7 +63,7 @@ export default {
 			this.selectedIndex = null
 			this.shuffleAnswers()
 		}
-	}
+	},
 
 	methods: {
 		selectAnswer(index) {
@@ -72,7 +72,7 @@ export default {
 		},
 		shuffleAnswers(){
 			let answers = [...this.current_problem.incorrect_answers]
-			this.shuffledAnswers = _shuffle(answers)
+			this.shuffledAnswers = _.shuffle(answers)
 
 		}
 	}, 

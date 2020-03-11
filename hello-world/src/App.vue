@@ -1,12 +1,14 @@
 <template>
   <div id="app">
 
+
+
     <hr>
-    <Header />
+    <Header/>
     <hr>
     <b-container class="bv-example-row">
       <b-row>
-        <b-col  >
+        <b-col>
           <Problem 
           v-if="problems.length"
             :current_problem="problems[index]"
@@ -31,12 +33,19 @@
       </b-row>
     </b-container>
 
+
+    <hr>
+      <Examp/>
+    <hr>
+  
+
   </div>
 </template>
 <script>
  
-   import Header from './components/Header.vue'
+  import Header from './components/Header.vue'
   import Problem from './components/Problems.vue'
+  import Examp from './components/Examp.vue'
 
 
 
@@ -44,7 +53,8 @@
     name: 'app',
     components:{
       Header,
-      Problem
+      Problem,
+      Examp
     },
 
     data(){
