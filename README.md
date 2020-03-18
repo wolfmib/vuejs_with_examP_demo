@@ -96,5 +96,8 @@ prepare examP in 2020 and make a vuejs framework to review the problem I solved.
   ![2](img/examp2.jpg)
 
 
+- Other Detail, pleae go to examp folder and open Reame.md there 🦜...
+
+
 ---
 

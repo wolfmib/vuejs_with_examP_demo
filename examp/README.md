@@ -1,5 +1,15 @@
 # webpack
 
+
+outline
+---
+- [setup](#setup)       ✅
+- [examP note](#examp)  🦜...
+
+
+
+---
+<a name="setup"></a>
 ## Project setup
 ```
 npm install
@@ -22,3 +32,16 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+
+
+<a name="examp"></a>
+
+### Examp Note
+
+--- 
+
+- For Poission  Distri. Example , Please check examp/30 endpoint
+- For Exponentiall Distri. Example, Please check examp/29 endpoint
+
+---
