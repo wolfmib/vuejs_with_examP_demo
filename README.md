@@ -61,7 +61,7 @@ prepare examP in 2020 and make a vuejs framework to review the problem I solved.
 - [home](#home)
 - [About](#about)
 - [Examp](#examp)
-- [ExampInFO](#exampinfo)
+- [ExampInfo](#exampinfo)
 
 <a name="home"></a>
 
