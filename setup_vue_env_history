@@ -11,3 +11,5 @@ cd hello_world
 npm run serve
 
 
+npm install --global
+npm install jquery@1.9.1
